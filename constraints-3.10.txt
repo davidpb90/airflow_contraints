@@ -80,7 +80,7 @@ ansiwrap==0.8.4
 anyio==3.6.2
 apache-airflow-providers-airbyte==3.2.0
 apache-airflow-providers-alibaba==2.2.0
-apache-airflow-providers-amazon==7.1.0
+apache-airflow-providers-amazon==8.1.0
 apache-airflow-providers-apache-beam==4.1.1
 apache-airflow-providers-apache-cassandra==3.1.0
 apache-airflow-providers-apache-drill==2.3.1
@@ -111,7 +111,7 @@ apache-airflow-providers-exasol==4.1.3
 apache-airflow-providers-facebook==3.1.0
 apache-airflow-providers-ftp==3.3.0
 apache-airflow-providers-github==2.2.0
-apache-airflow-providers-google==10.19.0
+apache-airflow-providers-google==10.2.0
 apache-airflow-providers-grpc==3.1.0
 apache-airflow-providers-hashicorp==3.2.0
 apache-airflow-providers-http==4.1.1
